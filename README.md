@@ -1,4 +1,4 @@
-# Outils de développement
+# Mise en place du TP
 
 ## Installation de NodeJs et NPM
 ### Via NVM
@@ -18,8 +18,10 @@ https://nodejs.org/en/
 ``` npm install -g gulp-cli ```
 
 
-## Installation des dépendances
+## Dépendances du projet
 ``` npm install ```
 
+## Développement
+Première compilation : ``` gulp build ```
 
-
+Lancement du serveur en mode live-reload : ```gulp```
