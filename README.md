@@ -8,8 +8,6 @@ https://github.com/creationix/nvm
 
 ``` nvm install node ```
 
-``` npm install -g grunt ```
-
 ### Installation directe
 
 https://nodejs.org/en/
